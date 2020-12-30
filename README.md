@@ -140,10 +140,6 @@ You will learn and practice how to do the following things in Python:
 - Be aware of copying lists, especially while you work on the board.
   You should know how to copy list by value instead of copy by reference (deep copy). And what's the difference between these operations.
 
-## Starting repository
-
-Click here to clone your own Git repository:
-https://classroom.github.com/g/98QVWNNf
 
 ## Background materials
 
