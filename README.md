@@ -20,7 +20,7 @@ of milk? firewalls?) and many dangerous enemies. Use your imagination!.
 In this project your job is to implement a
 [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game.
 
-![Roquelike1](https://user-images.githubusercontent.com/36601103/103354240-53292300-4aab-11eb-9622-2bf582dafb7a.JPG)
-![Roquelike2](https://user-images.githubusercontent.com/36601103/103354242-53c1b980-4aab-11eb-84c8-89e2b10e287f.JPG)
-![Roquelike3](https://user-images.githubusercontent.com/36601103/103354241-53c1b980-4aab-11eb-8f4b-50e319296703.JPG)
-![Roquelike4](https://user-images.githubusercontent.com/36601103/103354243-545a5000-4aab-11eb-8a6e-d364f41b66f0.JPG)
+![Roquelike1](https://user-images.githubusercontent.com/36601103/103354478-efebc080-4aab-11eb-95b9-975caa6a9c42.JPG)
+![Roquelike2](https://user-images.githubusercontent.com/36601103/103354483-f0845700-4aab-11eb-9ce9-606992a9f45e.JPG)
+![Roquelike3](https://user-images.githubusercontent.com/36601103/103354482-f0845700-4aab-11eb-9b1a-12b2cb85cc70.JPG)
+![Roquelike4](https://user-images.githubusercontent.com/36601103/103354485-f1b58400-4aab-11eb-9446-be9e4139bd27.JPG)
