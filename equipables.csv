@@ -1,0 +1,5 @@
+name,weight,default_slot,price,spawn_rate,min_rank,max_rank,bonus,
+club,2,right_hand,2,100,0,5,"[damage, 1]",
+sword,2,right_hand,20,60,0,9,"[damage, 2]","[attack, 3]"
+leather helmet,1,head,5,40,0,3,"[armor, 1]",
+leather chestplate,4,torso,50,10,0,4,"[armor, 2]",

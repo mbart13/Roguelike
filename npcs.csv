@@ -1,0 +1,3 @@
+name,description,positive_function,positive_arguments,positive_message,neutral_function,neutral_argument,neutral_message,negative_function,negative_argument,negative_message,threshold_neutral,threshold_positive,main_image
+Athena's owl,Somehow there is a lot of wisdom in it's eyes.,player_attribute_change,"[perception, 1]","""Remember, that being wise is also about being able to see!""",,,,,,,-1,-1,W
+Cat,"It’s a cute, furry creature. Awwww.",,,,player_add_temp_attr_bonus,"[‘charisma’, 1, 30]",“Meow”,,,,-1,-1,C

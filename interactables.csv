@@ -1,0 +1,5 @@
+name,description,function,arguments,charges,use_cost,spawn_rate,min_rank,max_rank,main_image,,,
+Healing altar,Stone table with a bowl of water,player_status_change_by%,"[hp, 40]",2,1,10,0,20,O,"[0, 1, O]","[1, 1, O]","[1, 0, O]"
+Magic mirror,A glass to which the images of whole floor were directed. There is very small inscription saying CCTV,player_add_temp_attr_bonus,"[perception, 100, 1]",1,0,10,0,20,U,,,
+Small healing altar,Small stone table with a bowl of water,player_status_change_by%,"[hp, 20]",2,1,30,0,20,O,,,
+Chest,A wooden chest. There’s something glimmering inside it.,,[],2,1,50,0,20,C,"[0, 1, C]",,
